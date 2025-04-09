@@ -1,7 +1,6 @@
 # Resume in Markdown to PDF
 
 # Why?
-## Why Use Markdown for Resumes
 * **Simplicity & Focus** - Create clean, professional documents using plain text syntax without fighting complex formatting tools.
 * **Version Control & Portability** - Track changes with Git and easily convert to multiple formats (PDF, HTML, DOCX) from a single source file.
 * **Maintenance & Consistency** - Make updates quickly without formatting issues and maintain a uniform style throughout your document.
